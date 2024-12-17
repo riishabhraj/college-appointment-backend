@@ -42,9 +42,9 @@ those slots. The system also includes the functionality to cancel appointments a
   **Request Body**:  
   ```json
   {
-      "name": "exampleUser",
-      "password": "examplePassword",
-      "password"
+      "name": "John Doe",
+      "password": "password",
+      "email": "john@gmail.com",
       "role": "student/professor"
   }
 
